@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WojciechMalarski
 - 👀 I’m interested in coding, playing video games
-- 🌱 I’m currently learning python, django, mysql
+- 🌱 I’m currently learning python, django, mysql,sqlite3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
